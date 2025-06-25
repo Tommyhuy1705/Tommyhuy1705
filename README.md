@@ -1,5 +1,5 @@
 ### Hi, I'm Tommy!
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif">
 🧠 AI & Data Scienctist sharing about my journey and learnings in tech<br/>
 🎓 Studied Computer Science at University of Economics Ho Chi Minh City<br/>
 📄 Currently learning about AI and Data analytics<br/>
@@ -14,4 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommyhuy1705&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tommyhuy1705&icon=0&color=0)](https://visitcount.itsvg.in)
