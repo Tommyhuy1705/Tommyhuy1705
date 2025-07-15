@@ -1,5 +1,5 @@
 # Hi, I'm Tommy!
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gif">
 🧠 AI & Data Scienctist sharing about my journey and learnings in tech<br/>
 🎓 Studied Computer Science at University of Economics Ho Chi Minh City<br/>
 📄 Currently learning about AI and Data analytics<br/>
