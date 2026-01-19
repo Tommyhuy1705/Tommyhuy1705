@@ -22,7 +22,7 @@
 
 [![Tommyhuy1705's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tommyhuy1705&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://raw.githubusercontent.com/Tommyhuy1705/Tommyhuy1705/output/generate pacman-contribution-graph.svg)
+![](https://raw.githubusercontent.com/Tommyhuy1705/Tommyhuy1705/output/pacman-contribution-graph.svg)
 
 
 ---
