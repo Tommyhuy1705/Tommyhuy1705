@@ -1,36 +1,33 @@
-name: Generate Snake Game
+name: Generate Pac-Man Graph
 
 on:
-  # Chạy tự động mỗi 24h
   schedule:
-    - cron: "0 0 * * *" 
-  # Cho phép chạy thủ công
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # Chạy khi có push vào branch main
-  push:
-    branches:
-    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-pacman-graph
     permissions:
       contents: write
-    
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Pac-Man Graph
+        uses: abozanona/pacman-contribution-graph@v2
         with:
-          # github_user_name: ${{ github.repository_owner }}
-          # Danh sách các file ảnh sẽ tạo ra.
-          # Sử dụng palette màu tối (github-dark)
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-react.svg?palette=github-react
-            
+          github_user_name: Tommyhuy1705 # Đã điền sẵn user của bạn
+          
+      # Bước quan trọng: Tạo thư mục dist và chuyển ảnh vào đó
+      # để tránh lỗi "directory not found" khi push
+      - name: Move to dist folder
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
+
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
