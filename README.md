@@ -105,10 +105,3 @@ Portfolio: [tomidata.com](https://tomidata.com)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tommyhuy1705&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
 </p>
-
-## Contact
-
-- Portfolio: [https://tomidata.com](https://tomidata.com)
-- LinkedIn: [linkedin.com/in/giahuytranviet](https://www.linkedin.com/in/giahuytranviet)
-- Email: [giahuytranviet.work@gmail.com](mailto:giahuytranviet.work@gmail.com)
-- Location: Ho Chi Minh City, Vietnam
