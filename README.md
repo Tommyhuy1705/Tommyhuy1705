@@ -67,17 +67,6 @@ Portfolio: [tomidata.com](https://tomidata.com)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured Work
-
-| Project | Focus | Link |
-|---|---|---|
-| E-Commerce Profitability Pipeline | Business analytics, Power BI, ROI modeling | [Case study](https://tomidata.com/projects/ecommerce-profitability-pipeline) |
-| Olist E-Commerce Analytics Platform | Data warehouse, Iceberg Cube, bad-review prediction | [Repository](https://github.com/Tommyhuy1705/Olist_E-Commerce_Analytics) |
-| Janus BI Multi-Agent Platform | Text-to-SQL, FastAPI, dbt, analytics agent | [Repository](https://github.com/Tommyhuy1705/AI_Web_Agent_For_Data_Analysis) |
-| SQL Data Warehouse Project | SQL Server, medallion architecture, star schema | [Repository](https://github.com/Tommyhuy1705/SQL_Data_Warehouse_Project) |
-| Automated Lymphocyte Cell Counting | YOLOv8, U-Net, biomedical computer vision | [Repository](https://github.com/Tommyhuy1705/Automatic-Lymphocyte-Cell-Counting-a-perspective-approach-from-image-segmentation-and-deep-learning) |
-| Real Estate Information Extraction | Vietnamese NLP, NER, relation extraction, PhoBERT | [Repository](https://github.com/Tommyhuy1705/Comparative_ML_Deep_Learning_Approaches_for_Information_Extraction_in_Real_Estate) |
-
 ## Highlights
 
 - Winner of DataVision 2026, outperforming 250+ teams with an e-commerce analytics ecosystem.
